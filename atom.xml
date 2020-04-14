@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zzdy.github.io</id>
+    <id>https://zizhudiyun.github.io</id>
     <title>紫竹笛韵</title>
-    <updated>2020-04-14T08:04:01.278Z</updated>
+    <updated>2020-04-14T08:16:15.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zzdy.github.io"/>
-    <link rel="self" href="https://zzdy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://zizhudiyun.github.io"/>
+    <link rel="self" href="https://zizhudiyun.github.io/atom.xml"/>
     <subtitle>用音乐记录世间万般美好</subtitle>
-    <logo>https://zzdy.github.io/images/avatar.png</logo>
-    <icon>https://zzdy.github.io/favicon.ico</icon>
+    <logo>https://zizhudiyun.github.io/images/avatar.png</logo>
+    <icon>https://zizhudiyun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 紫竹笛韵</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zzdy.github.io/post/hello-gridea/</id>
-        <link href="https://zzdy.github.io/post/hello-gridea/">
+        <id>https://zizhudiyun.github.io/post/hello-gridea/</id>
+        <link href="https://zizhudiyun.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
