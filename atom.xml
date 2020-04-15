@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zizhudiyun.github.io</id>
     <title>紫竹笛韵</title>
-    <updated>2020-04-15T04:26:49.364Z</updated>
+    <updated>2020-04-15T04:28:02.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zizhudiyun.github.io"/>
     <link rel="self" href="https://zizhudiyun.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 紫竹笛韵</rights>
     <entry>
         <title type="html"><![CDATA[关于整理的一些实用软件]]></title>
-        <id>https://zizhudiyun.github.io/post/guan-yu-zheng-li-de-yi-xie-shi-yong-ruan-jian/</id>
-        <link href="https://zizhudiyun.github.io/post/guan-yu-zheng-li-de-yi-xie-shi-yong-ruan-jian/">
+        <id>https://zizhudiyun.github.io/post/zlrj/</id>
+        <link href="https://zizhudiyun.github.io/post/zlrj/">
         </link>
         <updated>2020-04-14T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>文章中软件均为自行整理，描述可能不尽准确，不喜勿喷，谢谢啦~</p>
