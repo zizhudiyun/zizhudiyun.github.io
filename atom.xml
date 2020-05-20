@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zizhudiyun.github.io</id>
     <title>紫竹笛韵</title>
-    <updated>2020-04-16T09:18:35.943Z</updated>
+    <updated>2020-05-20T06:46:15.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zizhudiyun.github.io"/>
     <link rel="self" href="https://zizhudiyun.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://zizhudiyun.github.io/images/avatar.png</logo>
     <icon>https://zizhudiyun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 紫竹笛韵</rights>
+    <entry>
+        <title type="html"><![CDATA[纯音乐 | 奏响十二月份的交替轮回]]></title>
+        <id>https://zizhudiyun.github.io/post/chun-yin-le-or-zou-xiang-shi-er-yue-fen-de-jiao-ti-lun-hui/</id>
+        <link href="https://zizhudiyun.github.io/post/chun-yin-le-or-zou-xiang-shi-er-yue-fen-de-jiao-ti-lun-hui/">
+        </link>
+        <updated>2020-04-16T09:20:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="http://p1.music.126.net/R5Oox22xoR_l21skKkRxVQ==/109951163144347169.jpg">
+<p><a href="https://music.163.com/#/song?id=537831965">一月，银装轻舞</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于整理的一些实用软件]]></title>
         <id>https://zizhudiyun.github.io/post/zlrj/</id>
